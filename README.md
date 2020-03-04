@@ -1,4 +1,4 @@
-Cause I keep forgetting!
+Cause I keep forgetting!  
 ![SalesForce](afraidcat.gif)
 # Create a new repository on the command line
 git init  
